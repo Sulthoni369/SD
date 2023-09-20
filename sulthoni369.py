@@ -18,12 +18,6 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 https://github.com/Iyashinouta/sd-model-downloader
 https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
 https://github.com/Mikubill/sd-webui-controlnet
-/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/config.json
-/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/models/ESRGAN
-/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/models/ESRGAN/upscalers.zip https://huggingface.co/datasets/AI-C/Data-File/resolve/main/upscalers.zip
-/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/models/ESRGAN
-/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/models/ESRGAN/upscalers.zip
-upscalers.zip
 https://github.com/IDEA-Research/DWPose
 https://github.com/fkunn1326/openpose-editor
 https://github.com/Bing-su/adetailer
